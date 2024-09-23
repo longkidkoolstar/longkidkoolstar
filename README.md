@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Macon Akpobo</h1>
 <h3 align="center">A passionate hobbyist developer from the US</h3>
-<img align="right" alt="Coding" Width="400" src"[https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif](https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif)>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longkidkoolstar&label=Profile%20views&color=0e75b6&style=flat" alt="longkidkoolstar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=longkidkoolstar" alt="longkidkoolstar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kidkoolstar" target="blank"><img src="https://img.shields.io/twitter/follow/kidkoolstar?logo=twitter&style=for-the-badge" alt="kidkoolstar" /></a> </p>
+
+<img align="right" alt="Coding" Width="350" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 - 🔭 I’m currently working on [Userscripts](https://greasyfork.org/en/users/1000020-longkidkoolstar)
 
