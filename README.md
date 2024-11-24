@@ -61,6 +61,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longkidkoolstar/longkidkoolstar/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/longkidkoolstar/longkidkoolstar/output/snake.svg" />
+</picture>
+
 
 ###
