@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Macon Akpobo and I'm a passionate hobbyist developer in the US</h2>
+<h2 align="center">Hi 👋! My name is Macon and I'm a passionate hobbyist developer in the US</h2>
 
 ###
 
